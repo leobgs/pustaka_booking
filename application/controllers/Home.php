@@ -26,7 +26,7 @@ class Home extends CI_Controller
             $data['id'] = $id;
         }
         $this->load->view('template/header', $data);
-        $this->load->view('buku/detail-buku', $data);
+        $this->load->view('buku/detail_buku', $data);
         $this->load->view('template/footer');
     }
 
