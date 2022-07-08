@@ -1,4 +1,5 @@
-<?php class Member extends CI_Controller
+<?php
+class Member extends CI_Controller
 {
     function __construct()
     {
