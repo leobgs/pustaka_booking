@@ -1,4 +1,6 @@
-# Pustaka Booking merupakan web booking online buku berbasis website
-# menggunakan Code Igniter igniter 3
-# menerapkan metode MVC
-# Sudah bisa CRUD
+<ol>
+<li>Pustaka Booking merupakan web booking online buku berbasis website.</li>
+<li>Menggunakan Code Igniter igniter 3.</li>
+<li>Menerapkan metode MVC.</li>
+<li>Sudah bisa CRUD.</li>
+</ol>
