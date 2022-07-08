@@ -27,6 +27,7 @@ class Home extends CI_Controller
         }
         $this->load->view('template/header', $data);
         $this->load->view('buku/detail_buku', $data);
+        $this->load->view('template/modal', $data);
         $this->load->view('template/footer');
     }
 
@@ -45,11 +46,13 @@ class Home extends CI_Controller
             $data['user'] = $user['nama'];
             $this->load->view('template/header', $data);
             $this->load->view('buku/daftarbuku', $data);
+            $this->load->view('template/modal', $data);
             $this->load->view('template/footer', $data);
         } else {
             $data['user'] = 'Pengunjung';
             $this->load->view('template/header', $data);
             $this->load->view('buku/daftarbuku', $data);
+            $this->load->view('template/modal', $data);
             $this->load->view('template/footer', $data);
         }
     }
