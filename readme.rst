@@ -1,29 +1,18 @@
 ###################
-What is CodeIgniter
+Apa itu Pustaka Booking?
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+Pustaka Booking adalah sebuah website peminjaman buku online berbasis website yang dibangun menggunakan framework codeigniter 3. Dibuat dengan menerapkan metode MVC(Model View Controller) dan sudah bisa melakukan CRUD(Create Read Update Delete).
 
 *******************
-Release Information
+Informasi Terbaru
 *******************
-
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Masih dalam tahap pengembangan dan penambahan fitur, masih banyak kekurangan karena pembuat juga masih belajar jadi buat teman-teman yang masih belajar pemrograman mohon dimulai sejak awal mungkin daripada telat nanti keteteran susah sendiri. 
 
 **************************
-Changelog and New Features
+Rilis terbaru framework
 **************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+<https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
 
 *******************
 Server Requirements
@@ -43,14 +32,14 @@ Please see the `installation section <https://codeigniter.com/userguide3/install
 of the CodeIgniter User Guide.
 
 *******
-License
+Lisensi
 *******
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+Silahkan lihat `license
+persetujuan <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
 
 *********
-Resources
+Sumber Referensi
 *********
 
 -  `User Guide <https://codeigniter.com/docs>`_
@@ -69,3 +58,8 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+***************
+Salam Mumet
+***************
+Leonardo Bagus Utomo
